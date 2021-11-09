@@ -2,7 +2,7 @@
 
 First, Clone this repo. Both the frontend and the backend need to be installed seperately.
 ```bash
-git clone https://github.com/suryateja001/SpaceAPI.git
+git clone https://github.com/SpaceAPI.git
 ```
  
  ```bash
@@ -29,12 +29,12 @@ git clone https://github.com/suryateja001/SpaceAPI.git
 
 2. Next, clone this repository using
     ```bash
-    git clone https://github.com/suryateja001/SpaceAPI.git
+    git clone https://github.com/MIKKY-ai/SpaceAPI.git
     ```
 
 3. It is critical to keep your forked repository in sync with the upstream repository so merge           conflicts can be avoided:
     ```bash
-    git remote add upstream https://github.com/suryateja001/SpaceAPI.git
+    git remote add upstream https://github.com/MIKKY-AI/SpaceAPI.git
     git fetch upstream
     git pull upstream main
     git push
